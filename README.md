@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080303,45:3B0808,100:8F1515&height=230&section=header&text=ALV3X&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVEDOR%20%7C%20PAWN%20%7C%20JAVASCRIPT%20%7C%20PYTHON&descAlignY=61&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050202,45:2A0505,75:5C0A0A,100:8F1515&height=240&section=header&text=ALV3X&fontSize=78&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20PROFILE%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=FF5C5C&center=true&vCenter=true&width=800&lines=%3E+Inicializando+Alv3x+Core...;%3E+Carregando+ambiente+de+desenvolvimento...;%3E+PAWN+%7C+JavaScript+%7C+Python+%7C+SQLite;%3E+Desenvolvendo+o+One+DayZ...;%5BSISTEMA+ONLINE%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2300&pause=650&color=FF5555&center=true&vCenter=true&width=850&lines=%3E%20Inicializando+ALV3X.SYSTEM...;%3E%20Carregando+ambiente+de+desenvolvimento...;%3E%20PAWN+%7C+JavaScript+%7C+Python+%7C+SQLite;%3E%20One+DayZ+%2F%2F+SA--MP;%5BSISTEMA+ONLINE%5D" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Alv3x&style=for-the-badge&color=8F1515&label=VISITAS+NO+PERFIL" />
+<img src="https://komarev.com/ghpvc/?username=Alv3x&style=for-the-badge&color=8F1515&label=VISITAS" />
 
 </div>
 
@@ -16,174 +14,129 @@
 
 <div align="center">
 
-# ALV3X // IDENTIDADE
+# ◈ ALV3X.SYSTEM
 
-### Desenvolvedor de Software • Programador PAWN • Dono & Desenvolvedor do One DayZ
+`DEVELOPER PROFILE // ONLINE`
 
 <br>
 
-<img src="https://img.shields.io/badge/◉%20ALV3X%20%2F%2F%20PERFIL-8F1515?style=for-the-badge&labelColor=260606&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/●%20STATUS-ONLINE-8F1515?style=for-the-badge&labelColor=210404&logo=statuspage&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/OWNER%20%26%20DEV-ONE%20DAYZ-6B0F0F?style=for-the-badge&labelColor=210404&logo=gamepad&logoColor=FFFFFF"/>
 
-<br><br>
+</div>
+
+<br>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-8F1515?style=flat-square&logo=statuspage&logoColor=FFFFFF" />
+### ◉ IDENTIDADE
 
-<br><br>
+**FUNÇÃO**  
+`DESENVOLVEDOR`
 
-<strong>Desenvolvedor</strong><br>
-<sub>Software & SA-MP</sub>
+**ESPECIALIDADE**  
+`PAWN / SA-MP`
 
-</td>
+**PROJETO PRINCIPAL**  
+`ONE DAYZ`
 
-<td align="center" width="50%">
-
-<img src="https://img.shields.io/badge/PROJETO-ONE%20DAYZ-6B0F0F?style=flat-square&logo=gamepad&logoColor=FFFFFF" />
-
-<br><br>
-
-<strong>Dono & Desenvolvedor</strong><br>
-<sub>Servidor SA-MP</sub>
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/FOCO-PAWN%20%2F%20SA--MP-5C0A0A?style=flat-square&logo=code&logoColor=FFFFFF" />
-
-<br><br>
-
-<strong>Especialidade</strong><br>
-<sub>Scripts & Sistemas</sub>
+**STATUS**  
+`● ONLINE`
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/STACK-PAWN%20%7C%20JS%20%7C%20PYTHON%20%7C%20SQL-7A1010?style=flat-square&logo=stackblitz&logoColor=FFFFFF" />
+### ◈ AMBIENTE
 
-<br><br>
+**LINGUAGENS**  
+`PAWN • JS • PYTHON • SQLITE`
 
-<strong>Linguagens</strong><br>
-<sub>Desenvolvimento</sub>
+**SISTEMAS**  
+`WINDOWS • LINUX`
 
-</td>
-</tr>
+**MODO**  
+`BUILD • LEARN • CREATE`
 
-<tr>
-<td align="center">
-
-<img src="https://img.shields.io/badge/OS-WINDOWS%20%2F%20LINUX-4B0808?style=flat-square&logo=linux&logoColor=FFFFFF" />
-
-<br><br>
-
-<strong>Ambiente</strong><br>
-<sub>Windows & Linux</sub>
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/MODE-BUILD%20%2F%20LEARN%20%2F%20CREATE-8F1515?style=flat-square&logo=rocket&logoColor=FFFFFF" />
-
-<br><br>
-
-<strong>Modo</strong><br>
-<sub>Criar • Aprender • Evoluir</sub>
+**FOCO**  
+`DESENVOLVIMENTO`
 
 </td>
 </tr>
 </table>
 
-<br>
+<div align="center">
 
-<img src="https://img.shields.io/badge/●%20SYSTEM%20ONLINE-5C0A0A?style=for-the-badge&logo=server&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/████████████████████-8F1515?style=for-the-badge&label=SYSTEM%20LOAD&labelColor=210404"/>
 
 </div>
 
 ---
 
-# SOBRE MIM
+# ◈ SOBRE MIM
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1A0505,50:5C0A0A,100:8F1515&height=100&section=header&text=ALV3X&fontSize=42&fontColor=FFFFFF&animation=twinkling" width="85%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:210404,50:5C0A0A,100:8F1515&height=85&section=header&text=PROFILE%20//%20ALV3X&fontSize=30&fontColor=FFFFFF&animation=twinkling" width="90%"/>
 
 </div>
 
 <br>
 
-> **Olá! Eu sou o Alv3x.**
+Sou **Alv3x**, desenvolvedor focado em programação, tecnologia e criação de projetos.
 
-Sou desenvolvedor apaixonado por **programação, tecnologia e criação de projetos**.
+Meu principal foco é o desenvolvimento com **PAWN e SA-MP**, além de trabalhar com **JavaScript, Python e SQLite**.
 
-Meu foco principal é transformar ideias em sistemas funcionais, trabalhando principalmente com **PAWN, JavaScript, Python e SQLite**.
-
-Também sou **dono e desenvolvedor do servidor SA-MP One DayZ**, onde trabalho diretamente na criação de sistemas, scripts, melhorias e novas funcionalidades para o projeto.
+Também sou **dono e desenvolvedor do One DayZ**, um servidor de SA-MP no qual trabalho diretamente na criação de sistemas, scripts, funcionalidades e melhorias.
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DESENVOLVIMENTO-8F1515?style=for-the-badge&logo=code&logoColor=FFFFFF" />
+`━━━━━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━━━━━`
 
-<img src="https://img.shields.io/badge/SA--MP-6B0F0F?style=for-the-badge&logo=gamepad&logoColor=FFFFFF" />
+### DESENVOLVER • TESTAR • EVOLUIR
 
-<img src="https://img.shields.io/badge/ONE%20DAYZ-5C0A0A?style=for-the-badge&logo=server&logoColor=FFFFFF" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-`━━━━━━━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━━━━━━━`
-
-### "Código, criatividade e dedicação transformam uma ideia em realidade."
-
-`━━━━━━━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━━━━━━━`
+`━━━━━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━━━━━`
 
 </div>
 
 ---
 
-# ONE DAYZ
+# ◈ ONE DAYZ // SA-MP
 
 <div align="center">
 
-<!-- COLOQUE A LOGO DO ONE DAYZ AQUI -->
-<img src="SUA_LOGO_DO_ONE_DAYZ_AQUI" alt="Logo One DayZ" width="300"/>
+<!-- ===================================================== -->
+<!-- COLOQUE A LOGO DO ONE DAYZ NO SRC ABAIXO              -->
+<!-- Exemplo: https://site.com/logo.png                    -->
+<!-- ===================================================== -->
+
+<img src="SUA_LOGO_DO_ONE_DAYZ_AQUI" alt="Logo do One DayZ" width="300"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SA--MP-ONE%20DAYZ-8F1515?style=for-the-badge&logo=gamepad&logoColor=FFFFFF" />
-
-<img src="https://img.shields.io/badge/PROJETO-ATIVO-5C0A0A?style=for-the-badge&logo=server&logoColor=FFFFFF" />
-
-<img src="https://img.shields.io/badge/DONO%20%26%20DEV-ALV3X-3B0808?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/ONE%20DAYZ-8F1515?style=for-the-badge&logo=gamepad&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SA--MP-6B0F0F?style=for-the-badge&logo=server&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/OWNER%20%26%20DEV-4B0808?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </div>
 
 <br>
 
-## Sobre o servidor
+## PROJETO // STATUS
 
-O **One DayZ** é um servidor de **SA-MP** desenvolvido e administrado por mim.
+O **One DayZ** é meu projeto principal dentro do universo SA-MP.
 
-Como **dono e desenvolvedor**, trabalho diretamente no desenvolvimento do projeto, criando sistemas, scripts e melhorias para deixar o servidor cada vez mais completo.
+Como **dono e desenvolvedor**, participo diretamente da construção do servidor, desenvolvendo sistemas, scripts, mecânicas e melhorias para o projeto.
 
 <br>
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center">
+<td align="center" width="25%">
 
 **PROJETO**
 
@@ -193,7 +146,7 @@ Como **dono e desenvolvedor**, trabalho diretamente no desenvolvimento do projet
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 **PLATAFORMA**
 
@@ -203,9 +156,9 @@ Como **dono e desenvolvedor**, trabalho diretamente no desenvolvimento do projet
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-**LINGUAGEM**
+**SCRIPT**
 
 <br>
 
@@ -213,120 +166,116 @@ Como **dono e desenvolvedor**, trabalho diretamente no desenvolvimento do projet
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
 **FUNÇÃO**
 
 <br>
 
-`OWNER & DEV`
+`OWNER / DEV`
 
 </td>
 </tr>
 </table>
 
-</div>
-
 <br>
 
-> **LOGO DO SERVIDOR:** substitua `SUA_LOGO_DO_ONE_DAYZ_AQUI` pela URL da imagem da logo do One DayZ.
+<div align="center">
+
+<img src="https://img.shields.io/badge/●%20SERVER%20ONLINE-5C0A0A?style=for-the-badge&logo=server&logoColor=FFFFFF"/>
+
+</div>
+
+> **LOGO:** substitua `SUA_LOGO_DO_ONE_DAYZ_AQUI` pela URL direta da imagem da logo do servidor.
 
 ---
 
-# PAWN
+# ◈ PAWN // CORE
 
 <div align="center">
 
-<!-- COLOQUE A LOGO DO PATINHO DO PAWN AQUI -->
-<img src="SUA_LOGO_DO_PAWN_AQUI" alt="Logo PAWN" width="120"/>
+<!-- ===================================================== -->
+<!-- COLOQUE A LOGO DO PATINHO DO PAWN AQUI               -->
+<!-- Exemplo: https://site.com/pawn-duck.png               -->
+<!-- ===================================================== -->
 
-<br><br>
-
-<img src="https://img.shields.io/badge/PAWN-8F1515?style=for-the-badge&logo=code&logoColor=FFFFFF" />
-
-<img src="https://img.shields.io/badge/SA--MP-5C0A0A?style=for-the-badge&logo=gamepad&logoColor=FFFFFF" />
-
-</div>
-
-<br>
-
-O **PAWN** é uma das principais linguagens que utilizo no desenvolvimento do **One DayZ**, principalmente para criação de sistemas e scripts para SA-MP.
-
-<div align="center">
-
-`PAWN // SCRIPTING // SA-MP`
-
-</div>
-
-<br>
-
-> **LOGO DO PATINHO:** substitua `SUA_LOGO_DO_PAWN_AQUI` pela URL da imagem do patinho que você quiser utilizar.
-
----
-
-# TECH STACK
-
-<div align="center">
-
-## Linguagens
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=javascript,python,sqlite&theme=dark" height="52"/>
+<img src="SUA_LOGO_DO_PAWN_AQUI" alt="Logo do PAWN" width="115"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/PAWN-8F1515?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SA--MP-5C0A0A?style=for-the-badge&logo=gamepad&logoColor=FFFFFF"/>
 
+</div>
+
+<br>
+
+O **PAWN** é uma das principais tecnologias do meu ambiente de desenvolvimento, especialmente para criação de **scripts e sistemas para SA-MP** e para o desenvolvimento do **One DayZ**.
+
+<div align="center">
+
+`PAWN // SCRIPTING // SYSTEMS // SA-MP`
+
+</div>
+
+> **LOGO DO PATINHO:** substitua `SUA_LOGO_DO_PAWN_AQUI` pela URL da imagem do patinho.
+
+---
+
+# ◈ TECH STACK
+
+<div align="center">
+
+### LANGUAGES
+
+<br>
+
+<img src="https://img.shields.io/badge/PAWN-8F1515?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-7A1010?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
-
 <img src="https://img.shields.io/badge/PYTHON-681010?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-
 <img src="https://img.shields.io/badge/SQLITE-4B0808?style=for-the-badge&logo=sqlite&logoColor=FFFFFF"/>
 
 <br><br>
 
-## Ferramentas
+### TOOLS
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs&theme=dark" height="52"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs&theme=dark" height="48"/>
 
 </div>
 
 ---
 
-# NÚCLEO DE DESENVOLVIMENTO
+# ◈ DEVELOPMENT CORE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PAWN-100%25-8F1515?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/JAVASCRIPT-90%25-7A1010?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/PYTHON-80%25-681010?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/SQLITE-75%25-4B0808?style=for-the-badge&logo=sqlite&logoColor=FFFFFF"/>
-
-<img src="https://img.shields.io/badge/GIT%20%2F%20GITHUB-90%25-3B0808?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+| CORE | LEVEL |
+|:---:|:---:|
+| `PAWN` | `████████████████████` **100%** |
+| `JAVASCRIPT` | `██████████████████░░` **90%** |
+| `PYTHON` | `████████████████░░░░` **80%** |
+| `SQLITE` | `███████████████░░░░░` **75%** |
+| `GIT / GITHUB` | `██████████████████░░` **90%** |
 
 </div>
 
 ---
 
-# PROJETOS
+# ◈ PROJETOS
 
 <div align="center">
 
 <a href="https://github.com/Alv3x">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-1&theme=dark&hide_border=true&bg_color=080303&title_color=FF5C5C&icon_color=DC2626&text_color=D9CACA"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-1&theme=dark&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA"/>
 
 </a>
 
 <a href="https://github.com/Alv3x">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-2&theme=dark&hide_border=true&bg_color=080303&title_color=FF5C5C&icon_color=DC2626&text_color=D9CACA"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-2&theme=dark&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA"/>
 
 </a>
 
@@ -334,71 +283,90 @@ O **PAWN** é uma das principais linguagens que utilizo no desenvolvimento do **
 
 <a href="https://github.com/Alv3x?tab=repositories">
 
-<img src="https://img.shields.io/badge/→%20VER%20TODOS%20OS%20PROJETOS-8F1515?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/→%20ACESSAR%20TODOS%20OS%20PROJETOS-8F1515?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </a>
 
 </div>
 
-<br>
-
-> **CONFIGURAÇÃO:** troque `SEU-PROJETO-1` e `SEU-PROJETO-2` pelos nomes reais dos seus repositórios.
+> **CONFIGURAÇÃO:** troque `SEU-PROJETO-1` e `SEU-PROJETO-2` pelos nomes dos seus repositórios.
 
 ---
 
-# GITHUB ANALYTICS
+# ◈ GITHUB // ANALYTICS
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Alv3x&show_icons=true&hide_border=true&bg_color=080303&title_color=FF5C5C&icon_color=DC2626&text_color=D9CACA&ring_color=DC2626&include_all_commits=true&count_private=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Alv3x&show_icons=true&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA&ring_color=DC2626&include_all_commits=true&count_private=true"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alv3x&layout=compact&hide_border=true&bg_color=080303&title_color=FF5C5C&text_color=D9CACA&langs_count=8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Alv3x&theme=dark&hide_border=true&background=080303&ring=DC2626&fire=FF5C5C&currStreakLabel=FF5C5C&sideLabels=D9CACA&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alv3x&layout=compact&hide_border=true&bg_color=080303&title_color=FF5555&text_color=D9CACA&langs_count=8"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alv3x&bg_color=080303&color=FF5C5C&line=DC2626&point=FFFFFF&area=true&hide_border=true&custom_title=ALV3X%20%2F%2F%20GRÁFICO%20DE%20ATIVIDADE" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=Alv3x&theme=dark&hide_border=true&background=080303&ring=DC2626&fire=FF5555&currStreakLabel=FF5555&sideLabels=D9CACA&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alv3x&bg_color=080303&color=FF5555&line=DC2626&point=FFFFFF&area=true&hide_border=true&custom_title=ALV3X%20%2F%2F%20ATIVIDADE%20DO%20SISTEMA" width="95%"/>
 
 </div>
 
 ---
 
-# OBJETIVOS ATUAIS
+# ◈ OBJETIVOS // MISSION
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-APRENDER-8F1515?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/02-CONSTRUIR-7A1010?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/03-EVOLUIR-5C0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/01%20%2F%20APRENDER-8F1515?style=for-the-badge&logo=bookstack&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/02%20%2F%20CONSTRUIR-6B0F0F?style=for-the-badge&logo=code&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/03%20%2F%20EVOLUIR-4B0808?style=for-the-badge&logo=rocket&logoColor=FFFFFF"/>
 
 </div>
 
 <br>
 
-```text
-[✓] Aprimorar meus conhecimentos em programação
-[✓] Desenvolver sistemas para SA-MP
-[✓] Trabalhar no One DayZ
-[✓] Criar aplicações com JavaScript
-[✓] Explorar automações com Python
-[✓] Trabalhar com SQLite
+- Aprimorar meus conhecimentos em programação
+- Desenvolver sistemas para SA-MP
+- Continuar trabalhando no **One DayZ**
+- Criar aplicações com JavaScript
+- Explorar automações com Python
+- Trabalhar com SQLite
+- Aprender novas tecnologias
+- Criar sistemas cada vez mais complexos
+- Evoluir constantemente como desenvolvedor
 
-[>] Melhorar continuamente o One DayZ
-[>] Aprender novas tecnologias
-[>] Criar sistemas cada vez mais complexos
-[>] Evoluir como desenvolvedor
+---
 
-CONECTE-SE
-<div align="center"> <a href="https://github.com/Alv3x"> <img src="https://img.shields.io/badge/GITHUB-080303?style=for-the-badge&logo=github&logoColor=FF5C5C"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LINKEDIN-080303?style=for-the-badge&logo=linkedin&logoColor=FF5C5C"/> </a> <a href="https://discord.com/"> <img src="https://img.shields.io/badge/DISCORD-080303?style=for-the-badge&logo=discord&logoColor=FF5C5C"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1515,50:3B0808,100:080303&height=150&section=footer" width="100%"/>
-BUILD • LEARN • CREATE • REPEAT
-<br> <img src="https://img.shields.io/badge/ALV3X-8F1515?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+# ◈ CONECTE-SE
+
+<div align="center">
+
+<a href="https://github.com/Alv3x">
+<img src="https://img.shields.io/badge/GITHUB-080303?style=for-the-badge&logo=github&logoColor=FF5555"/>
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/DISCORD-080303?style=for-the-badge&logo=discord&logoColor=FF5555"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-080303?style=for-the-badge&logo=linkedin&logoColor=FF5555"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8F1515,45:5C0A0A,75:2A0505,100:080303&height=160&section=footer" width="100%"/>
+
+### `BUILD • LEARN • CREATE • REPEAT`
+
+<img src="https://img.shields.io/badge/ALV3X.SYSTEM-8F1515?style=for-the-badge&logo=server&logoColor=FFFFFF"/>
 
 <br><br>
 
-<sub>Desenvolvido por <strong>Alv3x</strong> • One DayZ</sub>
+<sub>One DayZ • SA-MP • PAWN • Desenvolvido por Alv3x</sub>
 
-</div> ```
+</div>
