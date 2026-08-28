@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=%3E+Initializing+Alv3x+Core...;%3E+Loading+Development+Environment...;%3E+PAWN+%7C+JavaScript+%7C+Python+%7C+SQLite;%3E+Building+Ideas+Into+Code...;%5BSYSTEM+ONLINE%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=750&lines=%3E+Iniciando+o+Nucleo+Alv3x...;%3E+Carregando+Ambiente+de+Desenvolvimento...;%3E+PAWN+%7C+JavaScript+%7C+Python+%7C+SQLite;%3E+Transformando+Ideias+em+Codigo...;%5BSISTEMA+ONLINE%5D" />
 
 <br><br>
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🟣 About Me
+## 🟣 Sobre Mim
 
 Olá! Eu sou o **Alv3x**, desenvolvedor apaixonado por programação, tecnologia e criação de projetos.
 
@@ -32,16 +32,16 @@ Meu foco atual está principalmente em **PAWN**, desenvolvimento para servidores
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
-│  USER       : ALV3X                                      │
+│  USUÁRIO    : ALV3X                                      │
 │  STATUS     : ● ONLINE                                   │
-│  ROLE       : SOFTWARE DEVELOPER                         │
-│  FOCUS      : PAWN • JS • PYTHON • SQLITE                │
-│  ENVIRONMENT: WINDOWS • LINUX                            │
-│  MODE       : BUILD • LEARN • CREATE                     │
+│  FUNÇÃO     : DESENVOLVEDOR                         │
+│  FOCO       : PAWN • JS • PYTHON • SQLITE                │
+│  AMBIENTE   : WINDOWS • LINUX                            │
+│  MODO       : CRIAR • APRENDER • EVOLUIR                     │
 └──────────────────────────────────────────────────────────┘
 ```
 
-> `Coding is not just writing code. It's turning an idea into something real.`
+> `Programar nao e apenas escrever codigo. E transformar uma ideia em algo real.`
 
 ---
 
@@ -49,10 +49,10 @@ Meu foco atual está principalmente em **PAWN**, desenvolvimento para servidores
 
 <div align="center">
 
-### 🧠 Languages
+### 🧠 Linguagens
 
-<a href="https://www.compuphase.com/pawn/">
-<img src="https://img.shields.io/badge/PAWN-6D28D9?style=for-the-badge&logoColor=white" />
+<a href="https://github.com/pawn-lang">
+  <img src="COLE_AQUI_O_LINK_DA_LOGO_DO_PAWNO" alt="PAWNO" height="48" />
 </a>
 <img src="https://skillicons.dev/icons?i=javascript,python,sqlite&theme=dark" height="48" />
 
@@ -63,7 +63,7 @@ Meu foco atual está principalmente em **PAWN**, desenvolvimento para servidores
 <img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-5B21B6?style=flat-square&logo=sqlite&logoColor=white" />
 
-### 🛠️ Tools & Environment
+### 🛠️ Ferramentas & Ambiente
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs&theme=dark" height="48" />
 
@@ -71,7 +71,7 @@ Meu foco atual está principalmente em **PAWN**, desenvolvimento para servidores
 
 ---
 
-## 🎯 Development Core
+## 🎯 Núcleo de Desenvolvimento
 
 ```text
 PAWN             ████████████████████  100%
@@ -83,7 +83,7 @@ Git / GitHub     ██████████████████░░   
 
 ---
 
-## 🚀 Projects
+## 🚀 Projetos
 
 <div align="center">
 
@@ -107,7 +107,7 @@ Git / GitHub     ██████████████████░░   
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -127,7 +127,7 @@ Git / GitHub     ██████████████████░░   
 
 ---
 
-## 🔮 Current Objectives
+## 🔮 Objetivos Atuais
 
 ```text
 [✓] Aprimorar conhecimentos em programação
@@ -143,7 +143,7 @@ Git / GitHub     ██████████████████░░   
 
 ---
 
-## 🌐 Connect
+## 🌐 Conecte-se
 
 <div align="center">
 
@@ -165,8 +165,8 @@ Git / GitHub     ██████████████████░░   
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:24103f,100:0b0614&height=130&section=footer" width="100%"/>
 
-### `BUILD • BREAK • LEARN • REPEAT`
+### `CRIAR • TESTAR • APRENDER • EVOLUIR`
 
-<sub>⚡ Designed & built by <strong>Alv3x</strong></sub>
+<sub>⚡ Desenvolvido por <strong>Alv3x</strong></sub>
 
 </div>
