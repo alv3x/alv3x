@@ -109,12 +109,7 @@ Também sou **dono e desenvolvedor do One DayZ**, um servidor de SA-MP no qual t
 
 <div align="center">
 
-<!-- ===================================================== -->
-<!-- COLOQUE A LOGO DO ONE DAYZ NO SRC ABAIXO              -->
-<!-- Exemplo: https://site.com/logo.png                    -->
-<!-- ===================================================== -->
-
-<img src="SUA_LOGO_DO_ONE_DAYZ_AQUI" alt="Logo do One DayZ" width="300"/>
+<img src="https://media.discordapp.net/attachments/1258578598709694474/1484170251611668560/logo_onz.png?ex=6a92d3c2&is=6a918242&hm=a64b9dbe1c913715c0dda13822e663885c298371dfa0d2dce368270c859be5c3&=&format=webp&quality=lossless" alt="Logo do One DayZ" width="300"/>
 
 <br><br>
 
@@ -186,8 +181,6 @@ Como **dono e desenvolvedor**, participo diretamente da construção do servidor
 
 </div>
 
-> **LOGO:** substitua `SUA_LOGO_DO_ONE_DAYZ_AQUI` pela URL direta da imagem da logo do servidor.
-
 ---
 
 # ◈ PAWN // CORE
@@ -199,7 +192,7 @@ Como **dono e desenvolvedor**, participo diretamente da construção do servidor
 <!-- Exemplo: https://site.com/pawn-duck.png               -->
 <!-- ===================================================== -->
 
-<img src="SUA_LOGO_DO_PAWN_AQUI" alt="Logo do PAWN" width="115"/>
+<img src="https://www.freeiconspng.com/uploads/pawn-icon-20.png" alt="Logo do PAWN" width="115"/>
 
 <br><br>
 
@@ -217,8 +210,6 @@ O **PAWN** é uma das principais tecnologias do meu ambiente de desenvolvimento,
 `PAWN // SCRIPTING // SYSTEMS // SA-MP`
 
 </div>
-
-> **LOGO DO PATINHO:** substitua `SUA_LOGO_DO_PAWN_AQUI` pela URL da imagem do patinho.
 
 ---
 
@@ -254,10 +245,10 @@ O **PAWN** é uma das principais tecnologias do meu ambiente de desenvolvimento,
 | CORE | LEVEL |
 |:---:|:---:|
 | `PAWN` | `████████████████████` **100%** |
-| `JAVASCRIPT` | `██████████████████░░` **90%** |
-| `PYTHON` | `████████████████░░░░` **80%** |
-| `SQLITE` | `███████████████░░░░░` **75%** |
+| `PYTHON` | `████████████████░░░░` **90%** |
 | `GIT / GITHUB` | `██████████████████░░` **90%** |
+| `JAVASCRIPT` | `██████████████████░░` **80%** |
+| `SQLITE` | `███████████████░░░░░` **75%** |
 
 </div>
 
@@ -267,7 +258,7 @@ O **PAWN** é uma das principais tecnologias do meu ambiente de desenvolvimento,
 
 <div align="center">
 
-<a href="https://github.com/Alv3x">
+<a href="https://github.com/ticket">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-1&theme=dark&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA"/>
 
@@ -289,29 +280,8 @@ O **PAWN** é uma das principais tecnologias do meu ambiente de desenvolvimento,
 
 </div>
 
-> **CONFIGURAÇÃO:** troque `SEU-PROJETO-1` e `SEU-PROJETO-2` pelos nomes dos seus repositórios.
-
 ---
 
-# ◈ GITHUB // ANALYTICS
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Alv3x&show_icons=true&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA&ring_color=DC2626&include_all_commits=true&count_private=true"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alv3x&layout=compact&hide_border=true&bg_color=080303&title_color=FF5555&text_color=D9CACA&langs_count=8"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Alv3x&theme=dark&hide_border=true&background=080303&ring=DC2626&fire=FF5555&currStreakLabel=FF5555&sideLabels=D9CACA&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alv3x&bg_color=080303&color=FF5555&line=DC2626&point=FFFFFF&area=true&hide_border=true&custom_title=ALV3X%20%2F%2F%20ATIVIDADE%20DO%20SISTEMA" width="95%"/>
-
-</div>
-
----
 
 # ◈ OBJETIVOS // MISSION
 
@@ -345,7 +315,7 @@ O **PAWN** é uma das principais tecnologias do meu ambiente de desenvolvimento,
 <img src="https://img.shields.io/badge/GITHUB-080303?style=for-the-badge&logo=github&logoColor=FF5555"/>
 </a>
 
-<a href="https://discord.com/">
+<a href="https://discord.com/username_alves">
 <img src="https://img.shields.io/badge/DISCORD-080303?style=for-the-badge&logo=discord&logoColor=FF5555"/>
 </a>
 
