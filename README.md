@@ -260,13 +260,13 @@ O **PAWN** é uma das principais tecnologias do meu ambiente de desenvolvimento,
 
 <a href="https://github.com/alv3x//ticket">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-1&theme=dark&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA"/>
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-1&theme=dark&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA](https://static.vecteezy.com/system/resources/previews/038/105/929/original/ticket-icon-logo-design-template-vector.jpg)"/>
 
 </a>
 
 <a href="https://github.com/alv3x/hortirfruit">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-2&theme=dark&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA"/>
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-2&theme=dark&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA](https://images.seeklogo.com/logo-png/47/2/hortifruti-logo-png_seeklogo-476332.png)"/>
 
 </a>
 
