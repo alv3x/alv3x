@@ -258,13 +258,13 @@ O **PAWN** é uma das principais tecnologias do meu ambiente de desenvolvimento,
 
 <div align="center">
 
-<a href="https://github.com/ticket">
+<a href="https://github.com/alv3x//ticket">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-1&theme=dark&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA"/>
 
 </a>
 
-<a href="https://github.com/Alv3x">
+<a href="https://github.com/alv3x/hortirfruit">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alv3x&repo=SEU-PROJETO-2&theme=dark&hide_border=true&bg_color=080303&title_color=FF5555&icon_color=DC2626&text_color=D9CACA"/>
 
